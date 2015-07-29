@@ -4,6 +4,12 @@
     <keyboard-shortcut first-keystroke="shift BACK_SPACE" />
     <keyboard-shortcut first-keystroke="control H" />
   </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift meta alt UP" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift meta alt DOWN" />
+  </action>
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="DELETE" />
     <keyboard-shortcut first-keystroke="control D" />
@@ -12,6 +18,8 @@
     <keyboard-shortcut first-keystroke="TAB" />
     <keyboard-shortcut first-keystroke="control I" />
   </action>
+  <action id="HtmlTableCellNavigateDown" />
+  <action id="HtmlTableCellNavigateUp" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta CLOSE_BRACKET" />
     <keyboard-shortcut first-keystroke="control RIGHT" />
