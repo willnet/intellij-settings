@@ -20,6 +20,7 @@
   </action>
   <action id="HtmlTableCellNavigateDown" />
   <action id="HtmlTableCellNavigateUp" />
+  <action id="Mvc.RunTarget" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta CLOSE_BRACKET" />
     <keyboard-shortcut first-keystroke="control RIGHT" />
